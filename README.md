@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in VBScript: runtime errors caused by late binding when interacting with COM objects or external libraries.  The `lateBindingError.vbs` script shows how a missing object reference leads to a runtime failure. The solution, `lateBindingSolution.vbs`, uses error handling to gracefully manage these situations.
